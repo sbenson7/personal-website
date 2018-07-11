@@ -12,6 +12,21 @@ class WorkScott extends Component {
 	      <div className='welcome'>
 	        Hi, I'm work Scott!
 	      </div>
+	      <div className='workheaders'>
+	      	 Study Clash
+	      </div>
+	      <div className='workheaders'>
+	      	 Langton Creative
+	      </div> 
+	      <div className='workheaders'>
+	      	 Idea Kraft
+	      </div>
+	     <div className='workheaders'>
+	      	 CipherHealth
+	      </div> 
+	      <div className='workheaders'>
+	      	 School Work
+	      </div>
         </div>    
     )
   }
