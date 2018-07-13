@@ -16,16 +16,26 @@ class HomePage extends Component {
 	      <div className='welcome'>
 	        Hi, I'm Scott!
 	      </div>
-	      <div className='funscott'>
-	        <button className="bttn" onClick={() => this.nextPath('/funscott')}>
-	            Meet Fun Scott!
-	        </button>
-	       </div>   
-	      <div className='workscott'>
-	        <button className="bttn" onClick={() => this.nextPath('/workscott')}>
-	            Meet Work Scott!
-	        </button> 
-	      </div>
+	      <div className='center'>
+		      <div className='fpic'>
+		      	<img src="https://s3.amazonaws.com/scott-personal-website/fun_scott.jpg"/>
+		      </div>
+		      <div className='wpic'>
+		      <img src="https://s3.amazonaws.com/scott-personal-website/Work+scott.jpg"/>
+		      </div>
+		      <br> 
+		      </br>
+		      <div className='funscott'>
+		        <button className="fbttn" onClick={() => this.nextPath('/funscott')}>
+		            Meet Fun Scott!
+		        </button>
+		       </div>   
+		      <div className='workscott'>
+		        <button className="wbttn" onClick={() => this.nextPath('/workscott')}>
+		            Meet Work Scott!
+		        </button> 
+		      </div>
+		    </div>
         </div>    
     )
   }

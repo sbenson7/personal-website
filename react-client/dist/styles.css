@@ -23,6 +23,10 @@ header {
   float: right;
 }
 
+.center {
+  margin: 0 auto;
+  text-align: center;
+}
 .welcome {
   margin-top: 50px;
   font-size: 70px;
@@ -31,27 +35,46 @@ header {
   font-family: 'Indie Flower', cursive;
 }
 
-.bttn {
+.fbttn {
   border: black solid 2px;
-  border-radius: 45px;
-  padding: 20px;
+  border-radius: 45px;;
   display: inline-block;  
+  margin: 10px;
+  padding: 15px;
+}
+
+.wbttn {
+  border: black solid 2px;
+  border-radius: 45px;;
+  display: inline-block;  
+  margin: 10px;
+  padding: 18px;
 }
 
 .funscott {
- margin-top: 300px;
-  font-size: 38px;
+  font-size: 36px;
   text-align: center;
   font-color: black;
   font-family: 'Indie Flower', cursive;
+  display: inline-block;
+
 }
 
+.fpic {
+  margin: 25px;
+  display: inline-block;
+}
+
+.wpic {
+  margin: 25px;
+  display: inline-block;
+}
 .workscott {
-  margin-top: 100px;
   font-size: 31px;
   text-align: center;
   font-color: black;
   font-family: 'Montserrat', sans-serif;
+  display: inline-block;  
 }
 
 .funheaders {
