@@ -5,7 +5,7 @@ class Footer extends Component {
     return (
       <footer>
         <div>
-          Footer component
+          Copyright © 2018 Scott Benson. All Rights Reserved. 
         </div>
       </footer>
     )

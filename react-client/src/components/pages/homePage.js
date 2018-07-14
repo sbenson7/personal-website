@@ -18,10 +18,7 @@ class HomePage extends Component {
 	      </div>
 	      <div className='center'>
 		      <div className='fpic'>
-		      	<img src="https://s3.amazonaws.com/scott-personal-website/fun_scott.jpg"/>
-		      </div>
-		      <div className='wpic'>
-		      <img src="https://s3.amazonaws.com/scott-personal-website/Work+scott.jpg"/>
+		      	<img src="https://s3.amazonaws.com/scott-personal-website/fun_and_work_scott.jpg"/>
 		      </div>
 		      <br> 
 		      </br>

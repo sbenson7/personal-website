@@ -23,6 +23,13 @@ header {
   float: right;
 }
 
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
 .center {
   margin: 0 auto;
   text-align: center;
@@ -33,6 +40,25 @@ header {
   text-align: center;
   font-color: black;
   font-family: 'Indie Flower', cursive;
+}
+
+.work-welcome {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  font-size: 70px;
+  text-align: center;
+  font-color: black;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.fpic {
+  margin: 20px;
+  display: inline-block;
+}
+
+.wpic {
+  margin: 25px;
+  display: inline-block;
 }
 
 .fbttn {
@@ -60,15 +86,6 @@ header {
 
 }
 
-.fpic {
-  margin: 25px;
-  display: inline-block;
-}
-
-.wpic {
-  margin: 25px;
-  display: inline-block;
-}
 .workscott {
   font-size: 31px;
   text-align: center;
@@ -86,6 +103,36 @@ header {
 
 .workheaders {
   text-align: center;
+  font-size: 30px;
+  font-color: black;
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+
+.pic {
+  display: inline-block;
+  margin: 10px;
+}
+
+
+.fun-description {
+  margin-left: 30px;
+  width: 800px;
+  display: inline-block;
+  vertical-align: middle;
+  text-align: left;
+  font-size: 30px;
+  font-color: black;
+  font-family: 'Indie Flower', cursive;
+}
+
+.work-description {
+  margin-left: 30px;
+  width: 800px;
+  display: inline-block;
+  vertical-align: middle;
+  text-align: left;
   font-size: 30px;
   font-color: black;
   font-family: 'Montserrat', sans-serif;
