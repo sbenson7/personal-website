@@ -22,23 +22,26 @@ class WorkScott extends Component {
 			    <br>
 			    </br>
 			     <div className='pic'>
+					<img src="https://s3.amazonaws.com/scott-personal-website/ideakraftscott.jpg"/>
+				</div>
+			    <div className='work-description'>
+			    	I worked at Idea Kraft as a Front-End Developer Intern from January 2017 to May 2017.
+			    </div>
+			     <br>
+			    </br>
+			    <div className='pic'>
+					<img src="https://s3.amazonaws.com/scott-personal-website/cipherhealthscott.jpg"/>
+				</div>
+			    <div className='work-description'>
+			    	I worked at CipherHealth as a Software Development Intern from June to August 2015.
+			    </div>
+			    <br>
+			    </br>
+			     <div className='pic'>
 					<img src="https://s3.amazonaws.com/scott-personal-website/graduation_scott.jpg"/>
 				</div>
 			    <div className='work-description'>
-			    	I graduaded May 2018 from Binghamton University. I majored in Political Science and minored in graphic design.
-			    </div>
-		        <div className='workheaders'>
-		      		Study Clash
-			    </div>
-			    
-			    <div className='workheaders'>
-			    	Idea Kraft
-			    </div>	
-			    <div className='workheaders'>
-			   		CipherHealth
-			    </div> 
-			    <div className='workheaders'>
-			    	School Work
+			    	I graduaded in May 2018 from Binghamton University, where I majored in Political Science and minored in graphic design. While I'm still interested in Political Science, my graphic design courses seem more relevant for my current career path. Here's some work I did in my classes! 
 			    </div>
 			</div>
         </div>    

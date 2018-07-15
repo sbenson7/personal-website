@@ -23,6 +23,14 @@ class FunScott extends Component {
 		      <div className='fun-description'>
 		      	I’m half British! My dad’s from England, and is a huge reason for my love of soccer and Tottenham Hotspur.
 		      </div>
+		      <br> 
+		      </br>
+		      <div className='pic'>
+			    <img src="https://s3.amazonaws.com/scott-personal-website/scott76.jpg"/>
+			  </div>
+		      <div className='fun-description'>
+		      	I have a love/hate relationship with the video game Overwatch.
+		      </div>
 		    </div>
         </div>    
     )
