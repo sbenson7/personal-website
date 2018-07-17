@@ -14,6 +14,16 @@ class WorkScott extends Component {
 		       		Hi, I'm work Scott!
 		        </div>
 		        <div className='pic'>
+					<img src="https://s3.amazonaws.com/scott-personal-website/Work scott.jpg"/>
+				</div>
+				<br>
+				</br>
+				<div className='work-intro'>
+					I like coding and design. Here's some places I've worked. Don't worry, I'm just as fun as Fun Scott!
+			    </div>
+			    <br>
+				</br>
+		        <div className='pic'>
 					<img src="https://s3.amazonaws.com/scott-personal-website/studyclashscott.jpg"/>
 				</div>
 			    <div className='work-description'>

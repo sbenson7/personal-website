@@ -11,9 +11,18 @@ class FunScott extends Component {
     	<div>
     		<div className='center'>
 		      <div className='welcome'>
-
 		        Hi, I'm fun Scott!
 		      </div>
+		        <div className='pic'>
+					<img src="https://s3.amazonaws.com/scott-personal-website/fun_scott.jpg"/>
+				</div>
+				<br>
+				</br>
+				<div className='fun-intro'>
+					Here's some fun facts about me! 
+				</div>
+			    <br>
+				</br>
 		      <div className='pic'>
 			    <img src="https://s3.amazonaws.com/scott-personal-website/spurs_scott.jpg"/>
 			  </div>
