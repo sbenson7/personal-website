@@ -41,11 +41,26 @@ header {
   outline: none;
 }
 
-.navButton > a:visited {
+.socButton{
+  color: black;
+  display: inline-block;
+  font-size: 35px;
+  margin: 10px;
+}
+.socButton > a:visited {
   color: black;
   outline: none;
 }
 
+.socButton > a {
+  color: black;
+  outline: none;
+}
+
+.navButton > a:visited {
+  color: black;
+  outline: none;
+}
 
 .left {
   float: left;
@@ -64,6 +79,26 @@ header {
   text-align: center;
   font-color: black;
   font-family: 'Indie Flower', cursive;
+}
+
+.email {
+  display: inline-block;
+  text-align: center;
+  width: 900px;
+  font-size: 30px;
+  font-color: black;
+  font-family: 'Indie Flower', cursive;
+  margin-top: 30px;
+}
+
+.w-email {
+  display: inline-block;
+  text-align: center;
+  width: 900px;
+  font-size: 25px;
+  font-color: black;
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 30px;
 }
 
 .work-welcome {
@@ -178,10 +213,6 @@ header {
   font-size: 24px;
   font-color: black;
   font-family: 'Montserrat', sans-serif;
-}
-
-#boo {
-  border: red black 50px;
 }
 
 body {

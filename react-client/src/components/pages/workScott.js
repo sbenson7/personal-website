@@ -1,4 +1,8 @@
 import React, { Component } from 'react';
+import { Link } from 'react-router-dom';
+import FaInstagram from 'react-icons/lib/fa/instagram';
+import FaTwitter from 'react-icons/lib/fa/twitter';
+import FaLinkedIn from 'react-icons/lib/fa/linkedin';
 
 class WorkScott extends Component {
 
@@ -23,7 +27,7 @@ class WorkScott extends Component {
 				</div>
 				<br>
 				</br>
-				<div className='work-intro' id='boo'>
+				<div className='work-intro'>
 					I like coding and design. Here are some places I've worked. Don't worry, I can be just as fun as Fun Scott!
 			    </div>
 			    <br>
@@ -57,8 +61,6 @@ class WorkScott extends Component {
 				</div>
 			    <div className='work-description'>
 			    	I worked at { cipherHealthLink }, a health tech startup, as a <b> Software Development Intern </b> from June to August 2015. I worked with applications in Ruby on Rails and tested with RSpec and Cucumber. I wrote in Ruby, HAML, CSS, and SASS; used MongoDB for the database; and  cleaned up code with Rubocop.
-
-
 			    </div>
 			    <br>
 			    </br>
@@ -76,6 +78,16 @@ class WorkScott extends Component {
 			    <div className='work-description'>
 			    	Want to see a boring version of this page? Check out my <b> resume </b> here!
 			    </div>
+			    <br> 
+		   		</br>		        
+		        <div className='w-email'>
+		        	Wanna talk? You can find me at <b>scottbenson96@gmail.com</b> OR
+		        </div>
+		        <br> 
+		   		</br>
+		      <div className="socButton"><a href="https://www.instagram.com/scott_benson_/" target="_blank"><FaInstagram/></a></div>
+		   	  <div className="socButton"><a href="https://twitter.com/scott_benson_" target="_blank"><FaTwitter/></a></div>
+		   	  <div className="socButton"><a href="https://www.linkedin.com/in/scott-benson1/" target="_blank"><FaLinkedIn/></a></div>
 			</div>
         </div>    
     )

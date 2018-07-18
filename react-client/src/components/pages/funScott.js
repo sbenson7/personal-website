@@ -1,4 +1,8 @@
 import React, { Component } from 'react';
+import { Link } from 'react-router-dom';
+import FaInstagram from 'react-icons/lib/fa/instagram';
+import FaTwitter from 'react-icons/lib/fa/twitter';
+import FaLinkedIn from 'react-icons/lib/fa/linkedin';
 
 class FunScott extends Component {
 
@@ -53,6 +57,16 @@ class FunScott extends Component {
 		      <div className='fun-description'>
 		      	I have a love/hate relationship with the video game Overwatch. 
 		      </div>
+		        <br> 
+		   		</br>		        
+		        <div className='email'>
+		        	Wanna talk? You can find me at <b>scottbenson96@gmail.com</b> OR
+		        </div>
+		        <br> 
+		   		</br>
+		      <div className="socButton"><a href="https://www.instagram.com/scott_benson_/" target="_blank"><FaInstagram/></a></div>
+		   	  <div className="socButton"><a href="https://twitter.com/scott_benson_" target="_blank"><FaTwitter/></a></div>
+		   	  <div className="socButton"><a href="https://www.linkedin.com/in/scott-benson1/" target="_blank"><FaLinkedIn/></a></div>
 		    </div>
         </div>    
     )
