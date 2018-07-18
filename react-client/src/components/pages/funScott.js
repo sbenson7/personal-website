@@ -19,7 +19,7 @@ class FunScott extends Component {
 				<br>
 				</br>
 				<div className='fun-intro'>
-					Here's some fun facts about me! 
+					Nice to meet you! Want to get to know me better? Here's some fun facts about me! 
 				</div>
 			    <br>
 				</br>
@@ -35,7 +35,7 @@ class FunScott extends Component {
 			    <img src="https://s3.amazonaws.com/scott-personal-website/britishscott.jpg"/>
 			  </div>
 		      <div className='fun-description'>
-		      	I’m half British! My dad’s from England, and is a huge reason for my love of soccer(football) and Tottenham Hotspur.
+		      	I’m half British and have dual citizenship! My dad’s from England, and is a huge reason for my love of soccer (football) and Tottenham Hotspur.
 		      </div>
 		      <br> 
 		      </br>
@@ -43,7 +43,7 @@ class FunScott extends Component {
 			    <img src="https://s3.amazonaws.com/scott-personal-website/scottanimals.jpg"/>
 			  </div>
 		      <div className='fun-description'>
-		      	I love animals, especially cats and dogs. My family has 4 cats, even though i'm allergic to them (I take a bunch of allergy medication.) I also volunteer at a couple of animal shelters!
+		      	I love animals, especially cats and dogs. My family has 4 cats, even though i'm allergic to them (I take a bunch of allergy medication). I also volunteer at a couple of animal shelters!
 		      </div>
 		      <br> 
 		      </br>
