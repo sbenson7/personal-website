@@ -35,6 +35,28 @@ footer > div {
   text-decoration: none;
 }
 
+.footer-small {
+  position: absolute;
+  right: 0;
+  padding: 1rem;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  color: white;
+  font-family: 'Roboto Slab', serif;
+  font-size: 1.2em;
+}
+.footer-small > div {
+  color: black;
+  font-size: 1.2em;
+ }
+
+.footer-small > a {
+  color: black;
+  text-decoration: none;
+  font-size: 1.2em;
+}
+
 /* General/ All pages */
 
 .center {
@@ -82,12 +104,34 @@ header {
   padding: 0.1em 0.3em;
   outline: none;
 }
-
 .navButton > a {
   color: black;
   outline: none;
 }
 .navButton > a:visited {
+  color: black;
+  outline: none;
+}
+
+.navButton-small {
+  float: left;
+  font-size: 3em;
+  margin-top: .75em;
+  margin-left: 1em;
+  display: inline-block;
+  background-color: white;
+  border: 2px solid black;
+  border-radius: 60px;
+  -moz-border-radius: 60px;
+  -webkit-border-radius: 60px;
+  padding: 0.1em 0.3em;
+  outline: none;
+}
+.navButton-small> a {
+  color: black;
+  outline: none;
+}
+.navButton-small > a:visited {
   color: black;
   outline: none;
 }
@@ -200,11 +244,11 @@ header {
 .email-small {
   display: inline-block;
   text-align: center;
-  width: 60%;
+  width: 70%;
   font-size: 3em;
   color: black;
   font-family: 'Indie Flower', cursive;
-  margin-top: 4em;
+  margin-top: 2em;
 }
 
 
