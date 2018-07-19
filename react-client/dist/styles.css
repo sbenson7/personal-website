@@ -152,7 +152,7 @@ header {
   text-align: center;
   color: black;
   font-family: 'Indie Flower', cursive;
-  margin-bottom: .7em;
+  margin-bottom: .5em;
 }
 
 .hpic {
@@ -251,7 +251,6 @@ header {
   margin-top: 2em;
 }
 
-
 .w-email {
   display: inline-block;
   text-align: center;
@@ -295,13 +294,22 @@ header {
 
 /* Fun Scott */
 
+.fun-welcome-small {
+  margin-top: 1em;
+  font-size: 5em;
+  text-align: center;
+  color: black;
+  font-family: 'Indie Flower', cursive;
+}
+
+}
 .fp-width {
   width: 25%;
   display: inline-block;
 }
 
 .fp-width-small {
-  width: 100%;
+  width: 25%;
   display: inline-block;
 }
 
@@ -311,17 +319,28 @@ header {
   font-size: 2.5em;
   color: black;
   font-family: 'Indie Flower', cursive;
-  margin-top: 10px;
-  margin-bottom: 40px;
+  margin-top: .625em;
+  margin-bottom: 2.5em;
   width: 50%;
 }
 
+.fun-intro-small {
+  display: inline-block;
+  text-align: center;
+  font-size: 2.7em;
+  color: black;
+  font-family: 'Indie Flower', cursive;
+  margin-top: .6em;
+  margin-bottom: 2em;
+  width: 80%;
+}
+
 .fun-description {
-  width: 35%;
+  width: 80%;
   display: inline-block;
   vertical-align: middle;
-  text-align: left;
-  font-size: 1.875em;
+  text-align: center;
+  font-size: 2em;
   color: black;
   font-family: 'Indie Flower', cursive;
 }
@@ -356,9 +375,13 @@ header {
   margin-bottom: 1.5em;
 }
 
-
 .wp-width {
   width: 40%;
+  display: inline-block;
+}
+
+.wp-width-small {
+  width: 100;
   display: inline-block;
 }
 
@@ -374,7 +397,6 @@ header {
 }
 
 .work-description-small {
-  margin-left: 1.2em;
   width: 80%;
   display: inline-block;
   vertical-align: middle;
