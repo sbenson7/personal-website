@@ -83,7 +83,6 @@ header {
   outline: none;
 }
 
-}
 .navButton > a {
   color: black;
   outline: none;
@@ -104,11 +103,12 @@ header {
 }
 
 .welcome-small {
-  margin-top: .5em;
-  font-size: 3.5em;
+  margin-top: 1em;
+  font-size: 7em;
   text-align: center;
   color: black;
   font-family: 'Indie Flower', cursive;
+  margin-bottom: .7em;
 }
 
 .hpic {
@@ -118,18 +118,39 @@ header {
 
 .fbttn {
   border: black solid 2px;
-  border-radius: 45px;;
-  display: inline-block;  
+  border-radius: 45px; 
   margin: 0 .5em 0 .5em;
   padding: .5em;
+  background-color: white;
+  outline: none;
+}
+
+.fbttn-small {
+  border: black solid 2px;
+  border-radius: 45px;  
+  margin: 1em .8em 0 .8em;
+  padding: .5em;
+  background-color: white;
+  outline: none;
+
 }
 
 .wbttn {
   border: black solid 2px;
-  border-radius: 45px;;
-  display: inline-block;  
+  border-radius: 45px;
   margin: 0.5em 0 .5em;
   padding: .7em;
+  background-color: white;
+  outline: none;
+}
+
+.wbttn-small {
+  border: black solid 2px;
+  border-radius: 45px;  
+  margin: 1em.5em 0 .5em;
+  padding: .8em;
+  background-color: white;
+  outline: none;
 }
 
 .funscott {
@@ -138,11 +159,26 @@ header {
   color: black;
   font-family: 'Indie Flower', cursive;
   display: inline-block;
+}
 
+.funscott-small {
+  font-size: 2.5em;
+  text-align: center;
+  color: black;
+  font-family: 'Indie Flower', cursive;
+  display: inline-block;
 }
 
 .workscott {
   font-size: 1.9em;
+  text-align: center;
+  color: black;
+  font-family: 'Montserrat', sans-serif;
+  display: inline-block;  
+}
+
+.workscott-small {
+  font-size: 2em;
   text-align: center;
   color: black;
   font-family: 'Montserrat', sans-serif;
@@ -161,6 +197,17 @@ header {
   margin-top: 1em;
 }
 
+.email-small {
+  display: inline-block;
+  text-align: center;
+  width: 60%;
+  font-size: 3em;
+  color: black;
+  font-family: 'Indie Flower', cursive;
+  margin-top: 4em;
+}
+
+
 .w-email {
   display: inline-block;
   text-align: center;
@@ -171,7 +218,7 @@ header {
   margin-top: 1.5em;
 }
 
-.socButton{
+.socButton {
   color: black;
   display: inline-block;
   font-size: 2.188em;
@@ -186,6 +233,20 @@ header {
   outline: none;
 }
 
+.socButton-small {
+  color: black;
+  display: inline-block;
+  font-size: 4em;
+  margin: 0.4em;
+}
+.socButton-small > a:visited {
+  color: black;
+  outline: none;
+}
+.socButton-small > a {
+  color: black;
+  outline: none;
+}
 
 
 /* Fun Scott */

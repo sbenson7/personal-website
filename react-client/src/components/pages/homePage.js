@@ -55,31 +55,31 @@ class HomePage extends Component {
 		        	Hi, I'm Scott!
 		        </div>
 		        <div className='center'>
-			    	<div className='pic-small'>
+			    	<div className='hpic'>
 			      		<img src="https://s3.amazonaws.com/scott-personal-website/fun_and_work_scott.jpg"/>
 			        </div>
 			    	<br> 
 			   		</br>
-			        <div className='funscott'>
-			        	<button className="fbttn" onClick={() => this.nextPath('/funscott')}>
+			        <div className='funscott-small'>
+			        	<button className="fbttn-small" onClick={() => this.nextPath('/funscott')}>
 			            	Meet Fun Scott!
 			        	</button>
 			        </div>   
-			        <div className='workscott'>
-			        	<button className="wbttn" onClick={() => this.nextPath('/workscott')}>
+			        <div className='workscott-small'>
+			        	<button className="wbttn-small" onClick={() => this.nextPath('/workscott')}>
 			           		Meet Work Scott!
 			        	</button> 
 			        </div>
 			    	<br> 
 			   		</br>		        
-			        <div className='email'>
+			        <div className='email-small'>
 			        	Wanna talk? You can find me at <b>scottbenson96@gmail.com</b> OR
 			        </div>
 			        <br> 
 			   		</br>
-				   	<div className="socButton"><a href="https://www.instagram.com/scott_benson_/" target="_blank"><FaInstagram/></a></div>
-				   	<div className="socButton"><a href="https://twitter.com/scott_benson_" target="_blank"><FaTwitter/></a></div>
-				   	<div className="socButton"><a href="https://www.linkedin.com/in/scott-benson1/" target="_blank"><FaLinkedIn/></a></div>
+				   	<div className="socButton-small"><a href="https://www.instagram.com/scott_benson_/" target="_blank"><FaInstagram/></a></div>
+				   	<div className="socButton-small"><a href="https://twitter.com/scott_benson_" target="_blank"><FaTwitter/></a></div>
+				   	<div className="socButton-small"><a href="https://www.linkedin.com/in/scott-benson1/" target="_blank"><FaLinkedIn/></a></div>
 			    </div>
 		    </MediaQuery>
         </div>    
