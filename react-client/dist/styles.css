@@ -300,6 +300,11 @@ header {
   display: inline-block;
 }
 
+.fp-width-small {
+  width: 100%;
+  display: inline-block;
+}
+
 .fun-intro {
   display: inline-block;
   text-align: center;
@@ -335,11 +340,22 @@ header {
   display: inline-block;
   text-align: center;
   width: 50%;
-  font-size: 1.875em;
+  font-size: 2em;
   color: black;
   font-family: 'Montserrat', sans-serif;
   margin-bottom: 1.5em;
 }
+
+.work-intro-small {
+  display: inline-block;
+  text-align: center;
+  width: 88%;
+  font-size: 2em;
+  color: black;
+  font-family: 'Montserrat', sans-serif;
+  margin-bottom: 1.5em;
+}
+
 
 .wp-width {
   width: 40%;
@@ -353,6 +369,17 @@ header {
   vertical-align: middle;
   text-align: left;
   font-size: 1.5em;
+  color: black;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.work-description-small {
+  margin-left: 1.2em;
+  width: 80%;
+  display: inline-block;
+  vertical-align: middle;
+  text-align: center;
+  font-size: 1.8em;
   color: black;
   font-family: 'Montserrat', sans-serif;
 }

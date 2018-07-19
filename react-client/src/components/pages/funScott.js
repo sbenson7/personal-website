@@ -53,7 +53,7 @@ class FunScott extends Component {
 				    </div>
 				</div>
 		        <div className='fun-description'>
-		      		I love animals, especially <b>cats</b> and <b>dogs</b>. My family has 4 cats, even though i'm allergic to them (I take a bunch of allergy medication). I also volunteer at a couple of animal shelters!
+		      		I love animals, especially <b>cats</b> and <b>dogs</b>. My family has four cats, even though I'm allergic to them and have to take a bunch of allergy medication. I also volunteer at a couple of animal shelters!
 		        </div>
 		        <br> 
 		        </br>
