@@ -42,9 +42,10 @@ footer > div {
   text-align: center;
 }
 
+
 .pic {
   display: inline-block;
-  margin: 3.125em;
+  margin: 3.125em 0 3.125em 0;
 }
 
 
@@ -80,6 +81,7 @@ header {
   -webkit-border-radius: 60px;
   padding: 0.1em 0.3em;
   outline: none;
+}
 
 }
 .navButton > a {
@@ -97,8 +99,21 @@ header {
   margin-top: .5em;
   font-size: 3.5em;
   text-align: center;
-  font-color: black;
+  color: black;
   font-family: 'Indie Flower', cursive;
+}
+
+.welcome-small {
+  margin-top: .5em;
+  font-size: 3.5em;
+  text-align: center;
+  color: black;
+  font-family: 'Indie Flower', cursive;
+}
+
+.hpic {
+  display: inline-block;
+  margin: 1em;
 }
 
 .fbttn {
@@ -120,7 +135,7 @@ header {
 .funscott {
   font-size: 2.25em;
   text-align: center;
-  font-color: black;
+  color: black;
   font-family: 'Indie Flower', cursive;
   display: inline-block;
 
@@ -129,7 +144,7 @@ header {
 .workscott {
   font-size: 1.9em;
   text-align: center;
-  font-color: black;
+  color: black;
   font-family: 'Montserrat', sans-serif;
   display: inline-block;  
 }
@@ -141,7 +156,7 @@ header {
   text-align: center;
   width: 40%;
   font-size: 1.76em;
-  font-color: black;
+  color: black;
   font-family: 'Indie Flower', cursive;
   margin-top: 1em;
 }
@@ -151,7 +166,7 @@ header {
   text-align: center;
   width: 50%;
   font-size: 1.563em;
-  font-color: black;
+  color: black;
   font-family: 'Montserrat', sans-serif;
   margin-top: 1.5em;
 }
@@ -184,7 +199,7 @@ header {
   display: inline-block;
   text-align: center;
   font-size: 2.5em;
-  font-color: black;
+  color: black;
   font-family: 'Indie Flower', cursive;
   margin-top: 10px;
   margin-bottom: 40px;
@@ -197,7 +212,7 @@ header {
   vertical-align: middle;
   text-align: left;
   font-size: 1.875em;
-  font-color: black;
+  color: black;
   font-family: 'Indie Flower', cursive;
 }
 
@@ -207,7 +222,7 @@ header {
   margin-top: .9em;
   font-size: 4.375em;
   text-align: center;
-  font-color: black;
+  color: black;
   font-family: 'Montserrat', sans-serif;
 }
 
@@ -216,7 +231,7 @@ header {
   text-align: center;
   width: 50%;
   font-size: 1.875em;
-  font-color: black;
+  color: black;
   font-family: 'Montserrat', sans-serif;
   margin-bottom: 1.5em;
 }
@@ -233,7 +248,7 @@ header {
   vertical-align: middle;
   text-align: left;
   font-size: 1.5em;
-  font-color: black;
+  color: black;
   font-family: 'Montserrat', sans-serif;
 }
 
