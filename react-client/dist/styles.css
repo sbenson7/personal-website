@@ -309,7 +309,7 @@ header {
 }
 
 .fp-width-small {
-  width: 25%;
+  width: 100%;
   display: inline-block;
 }
 
@@ -381,7 +381,7 @@ header {
 }
 
 .wp-width-small {
-  width: 100;
+  width: 100%;
   display: inline-block;
 }
 
