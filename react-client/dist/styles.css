@@ -4,229 +4,6 @@ html {
   padding-bottom: 4.5rem;
 }
 
-header {
-  top: 0;
-  display: block;
-  background-color: white;
-  width: 100%;
-  height: 1px;
-  color: white;
-  z-index: 100;
-  position: fixed;
-}
-
-#headerButtons {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
-
-.navButton {
-  float: left;
-  font-size: 40px;
-  margin-top: 20px;
-  margin-left: 50px;
-  display: inline-block;
-  border: 2px solid black;
-  border-radius: 60px;
-  -moz-border-radius: 60px;
-  -webkit-border-radius: 60px;
-  padding: 0.1em 0.3em;
-  outline: none;
-
-}
-
-.navButton > a {
-  color: black;
-  outline: none;
-}
-
-.socButton{
-  color: black;
-  display: inline-block;
-  font-size: 35px;
-  margin: 10px;
-}
-.socButton > a:visited {
-  color: black;
-  outline: none;
-}
-
-.socButton > a {
-  color: black;
-  outline: none;
-}
-
-.navButton > a:visited {
-  color: black;
-  outline: none;
-}
-
-.wp-width {
-  width: 40%;
-  display: inline-block;
-}
-
-.fp-width {
-  width: 25%;
-  display: inline-block;
-}
-
-.left {
-  float: left;
-}
-
-.right {
-  float: right;
-}
-
-.center {
-  margin: 0 auto;
-  text-align: center;
-}
-
-.welcome {
-  margin-top: 50px;
-  font-size: 70px;
-  text-align: center;
-  font-color: black;
-  font-family: 'Indie Flower', cursive;
-}
-
-.email {
-  display: inline-block;
-  text-align: center;
-  width: 900px;
-  font-size: 30px;
-  font-color: black;
-  font-family: 'Indie Flower', cursive;
-  margin-top: 30px;
-}
-
-.w-email {
-  display: inline-block;
-  text-align: center;
-  width: 900px;
-  font-size: 25px;
-  font-color: black;
-  font-family: 'Montserrat', sans-serif;
-  margin-top: 30px;
-}
-
-.work-welcome {
-  margin-top: 50px;
-  font-size: 70px;
-  text-align: center;
-  font-color: black;
-  font-family: 'Montserrat', sans-serif;
-}
-
-.work-intro {
-  display: inline-block;
-  text-align: center;
-  width: 900px;
-  font-size: 30px;
-  font-color: black;
-  font-family: 'Montserrat', sans-serif;
-  margin-bottom: 40px;
-}
-
-.fun-intro {
-  display: inline-block;
-  text-align: center;
-  font-size: 40px;
-  font-color: black;
-  font-family: 'Indie Flower', cursive;
-  margin-top: 10px;
-  margin-bottom: 40px;
-  width: 50%;
-}
-
-.fpic {
-  margin: 20px;
-  display: inline-block;
-}
-
-.wpic {
-  margin: 25px;
-  display: inline-block;
-}
-
-.fbttn {
-  border: black solid 2px;
-  border-radius: 45px;;
-  display: inline-block;  
-  margin: 10px;
-  padding: 15px;
-}
-
-.wbttn {
-  border: black solid 2px;
-  border-radius: 45px;;
-  display: inline-block;  
-  margin: 10px;
-  padding: 18px;
-}
-
-.funscott {
-  font-size: 36px;
-  text-align: center;
-  font-color: black;
-  font-family: 'Indie Flower', cursive;
-  display: inline-block;
-
-}
-
-.workscott {
-  font-size: 31px;
-  text-align: center;
-  font-color: black;
-  font-family: 'Montserrat', sans-serif;
-  display: inline-block;  
-}
-
-.funheaders {
-  text-align: center;
-  font-size: 30px;
-  font-color: black;
-  font-family: 'Indie Flower', cursive;
-}
-
-.workheaders {
-  text-align: center;
-  font-size: 30px;
-  font-color: black;
-  font-family: 'Montserrat', sans-serif;
-}
-
-.pic {
-  display: inline-block;
-  margin: 50px;
-}
-
-
-.fun-description {
-  margin-left: 10px;
-  width: 35%;
-  display: inline-block;
-  vertical-align: middle;
-  text-align: left;
-  font-size: 30px;
-  font-color: black;
-  font-family: 'Indie Flower', cursive;
-}
-
-.work-description {
-  margin-left: 30px;
-  width: 45%;
-  display: inline-block;
-  vertical-align: middle;
-  text-align: left;
-  font-size: 24px;
-  font-color: black;
-  font-family: 'Montserrat', sans-serif;
-}
-
 body {
   min-width: 100%;
   margin-bottom: 1.2em;
@@ -257,4 +34,224 @@ footer > div {
   color: black;
   text-decoration: none;
 }
+
+/* General/ All pages */
+
+.center {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.pic {
+  display: inline-block;
+  margin: 3.125em;
+}
+
+
+/* Navbar (might add stuff later)  */
+
+header {
+  top: 0;
+  display: block;
+  background-color: white;
+  width: 100%;
+  height: .01em;
+  color: white;
+  z-index: 100;
+  position: fixed;
+}
+
+#headerButtons {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.navButton {
+  float: left;
+  font-size: 2.5em;
+  margin-top: .75em;
+  margin-left: 1em;
+  display: inline-block;
+  background-color: white;
+  border: 2px solid black;
+  border-radius: 60px;
+  -moz-border-radius: 60px;
+  -webkit-border-radius: 60px;
+  padding: 0.1em 0.3em;
+  outline: none;
+
+}
+.navButton > a {
+  color: black;
+  outline: none;
+}
+.navButton > a:visited {
+  color: black;
+  outline: none;
+}
+
+/* Homepage  */
+
+.welcome {
+  margin-top: .5em;
+  font-size: 3.5em;
+  text-align: center;
+  font-color: black;
+  font-family: 'Indie Flower', cursive;
+}
+
+.fbttn {
+  border: black solid 2px;
+  border-radius: 45px;;
+  display: inline-block;  
+  margin: 0 .5em 0 .5em;
+  padding: .5em;
+}
+
+.wbttn {
+  border: black solid 2px;
+  border-radius: 45px;;
+  display: inline-block;  
+  margin: 0.5em 0 .5em;
+  padding: .7em;
+}
+
+.funscott {
+  font-size: 2.25em;
+  text-align: center;
+  font-color: black;
+  font-family: 'Indie Flower', cursive;
+  display: inline-block;
+
+}
+
+.workscott {
+  font-size: 1.9em;
+  text-align: center;
+  font-color: black;
+  font-family: 'Montserrat', sans-serif;
+  display: inline-block;  
+}
+
+/* Email and Social Media */
+
+.email {
+  display: inline-block;
+  text-align: center;
+  width: 40%;
+  font-size: 1.76em;
+  font-color: black;
+  font-family: 'Indie Flower', cursive;
+  margin-top: 1em;
+}
+
+.w-email {
+  display: inline-block;
+  text-align: center;
+  width: 50%;
+  font-size: 1.563em;
+  font-color: black;
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 1.5em;
+}
+
+.socButton{
+  color: black;
+  display: inline-block;
+  font-size: 2.188em;
+  margin: 0.625em;
+}
+.socButton > a:visited {
+  color: black;
+  outline: none;
+}
+.socButton > a {
+  color: black;
+  outline: none;
+}
+
+
+
+/* Fun Scott */
+
+.fp-width {
+  width: 25%;
+  display: inline-block;
+}
+
+.fun-intro {
+  display: inline-block;
+  text-align: center;
+  font-size: 2.5em;
+  font-color: black;
+  font-family: 'Indie Flower', cursive;
+  margin-top: 10px;
+  margin-bottom: 40px;
+  width: 50%;
+}
+
+.fun-description {
+  width: 35%;
+  display: inline-block;
+  vertical-align: middle;
+  text-align: left;
+  font-size: 1.875em;
+  font-color: black;
+  font-family: 'Indie Flower', cursive;
+}
+
+/* Work Scott */
+
+.work-welcome {
+  margin-top: .9em;
+  font-size: 4.375em;
+  text-align: center;
+  font-color: black;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.work-intro {
+  display: inline-block;
+  text-align: center;
+  width: 50%;
+  font-size: 1.875em;
+  font-color: black;
+  font-family: 'Montserrat', sans-serif;
+  margin-bottom: 1.5em;
+}
+
+.wp-width {
+  width: 40%;
+  display: inline-block;
+}
+
+.work-description {
+  margin-left: 1.2em;
+  width: 45%;
+  display: inline-block;
+  vertical-align: middle;
+  text-align: left;
+  font-size: 1.5em;
+  font-color: black;
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
