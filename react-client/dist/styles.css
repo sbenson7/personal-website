@@ -62,6 +62,16 @@ header {
   outline: none;
 }
 
+.wp-width {
+  width: 40%;
+  display: inline-block;
+}
+
+.fp-width {
+  width: 25%;
+  display: inline-block;
+}
+
 .left {
   float: left;
 }
@@ -69,10 +79,12 @@ header {
 .right {
   float: right;
 }
+
 .center {
   margin: 0 auto;
   text-align: center;
 }
+
 .welcome {
   margin-top: 50px;
   font-size: 70px;
@@ -122,12 +134,12 @@ header {
 .fun-intro {
   display: inline-block;
   text-align: center;
-  width: 900px;
   font-size: 40px;
   font-color: black;
   font-family: 'Indie Flower', cursive;
   margin-top: 10px;
   margin-bottom: 40px;
+  width: 50%;
 }
 
 .fpic {
@@ -194,8 +206,8 @@ header {
 
 
 .fun-description {
-  margin-left: 30px;
-  width: 800px;
+  margin-left: 10px;
+  width: 35%;
   display: inline-block;
   vertical-align: middle;
   text-align: left;
@@ -206,7 +218,7 @@ header {
 
 .work-description {
   margin-left: 30px;
-  width: 800px;
+  width: 45%;
   display: inline-block;
   vertical-align: middle;
   text-align: left;

@@ -14,9 +14,9 @@ class FunScott extends Component {
     return (
     	<div>
     		<div className='center'>
-		      <div className='welcome'>
-		        Hi, I'm fun Scott!
-		      </div>
+		    	<div className='welcome'>
+		        	Hi, I'm fun Scott!
+		        </div>
 		        <div className='pic'>
 					<img src="https://s3.amazonaws.com/scott-personal-website/fun_scott.jpg"/>
 				</div>
@@ -27,35 +27,43 @@ class FunScott extends Component {
 				</div>
 			    <br>
 				</br>
-		      <div className='pic'>
-			    <img src="https://s3.amazonaws.com/scott-personal-website/spurs_scott.jpg"/>
-			  </div>
+				<div className='fp-width'>
+			        <div className='pic'>
+				    	<img src="https://s3.amazonaws.com/scott-personal-website/spurs_scott.jpg"/>
+				 	</div>
+				</div>
+		        <div className='fun-description'>
+		      		I love playing and watching <b>soccer</b>. My favorite team is <b>Tottenham Hotspur</b>, a soccer team in the English Premier League.
+		        </div>
+		        <br> 
+		        </br>
+			    <div className='fp-width'>
+			    	<div className='pic'>
+				   		<img src="https://s3.amazonaws.com/scott-personal-website/britishscott.jpg"/>
+				    </div>
+				</div>
+		        <div className='fun-description'>
+		      		I’m half <b>British</b> and have <b>dual citizenship</b>! My dad’s from England, and is a huge reason for my love of soccer (football) and Tottenham Hotspur.
+		        </div>
+		        <br> 
+		        </br>
+		        <div className='fp-width'>
+			      	<div className='pic'>
+				    	<img src="https://s3.amazonaws.com/scott-personal-website/scottanimals.jpg"/>
+				    </div>
+				</div>
+		        <div className='fun-description'>
+		      		I love animals, especially <b>cats</b> and <b>dogs</b>. My family has 4 cats, even though i'm allergic to them (I take a bunch of allergy medication). I also volunteer at a couple of animal shelters!
+		        </div>
+		        <br> 
+		        </br>
+		        <div className='fp-width'>
+		      		<div className='pic'>
+			   			 <img src="https://s3.amazonaws.com/scott-personal-website/scott76.jpg"/>
+			   		</div>
+			  	</div>
 		      <div className='fun-description'>
-		      	I love playing and watching soccer. My favorite team is Tottenham Hotspur, a soccer team in the English Premier League.
-		      </div>
-		      <br> 
-		      </br>
-		      <div className='pic'>
-			    <img src="https://s3.amazonaws.com/scott-personal-website/britishscott.jpg"/>
-			  </div>
-		      <div className='fun-description'>
-		      	I’m half British and have dual citizenship! My dad’s from England, and is a huge reason for my love of soccer (football) and Tottenham Hotspur.
-		      </div>
-		      <br> 
-		      </br>
-		       <div className='pic'>
-			    <img src="https://s3.amazonaws.com/scott-personal-website/scottanimals.jpg"/>
-			  </div>
-		      <div className='fun-description'>
-		      	I love animals, especially cats and dogs. My family has 4 cats, even though i'm allergic to them (I take a bunch of allergy medication). I also volunteer at a couple of animal shelters!
-		      </div>
-		      <br> 
-		      </br>
-		      <div className='pic'>
-			    <img src="https://s3.amazonaws.com/scott-personal-website/scott76.jpg"/>
-			  </div>
-		      <div className='fun-description'>
-		      	I have a love/hate relationship with the video game Overwatch. 
+		      	I have a love/hate relationship with the video game <b>Overwatch</b>. 
 		      </div>
 		        <br> 
 		   		</br>		        
