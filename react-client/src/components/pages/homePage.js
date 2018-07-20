@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom';
 import FaInstagram from 'react-icons/lib/fa/instagram';
 import FaTwitter from 'react-icons/lib/fa/twitter';
 import FaLinkedIn from 'react-icons/lib/fa/linkedin';
+import FaGithub from 'react-icons/lib/fa/github';
 
 var buttonStyle = {
   margin: '10px 10px 10px 0'
@@ -48,6 +49,7 @@ class HomePage extends Component {
 				   	<div className="socButton"><a href="https://www.instagram.com/scott_benson_/" target="_blank"><FaInstagram/></a></div>
 				   	<div className="socButton"><a href="https://twitter.com/scott_benson_" target="_blank"><FaTwitter/></a></div>
 				   	<div className="socButton"><a href="https://www.linkedin.com/in/scott-benson1/" target="_blank"><FaLinkedIn/></a></div>
+				   	<div className="socButton"><a href="https://github.com/sbenson7" target="_blank"><FaGithub/></a></div>
 			    </div>
 		    </MediaQuery>
 		    <MediaQuery maxDeviceWidth={899}>
@@ -80,6 +82,7 @@ class HomePage extends Component {
 				   	<div className="socButton-small"><a href="https://www.instagram.com/scott_benson_/" target="_blank"><FaInstagram/></a></div>
 				   	<div className="socButton-small"><a href="https://twitter.com/scott_benson_" target="_blank"><FaTwitter/></a></div>
 				   	<div className="socButton-small"><a href="https://www.linkedin.com/in/scott-benson1/" target="_blank"><FaLinkedIn/></a></div>
+				   	<div className="socButton-small"><a href="https://github.com/sbenson7" target="_blank"><FaGithub/></a></div>
 			    </div>
 		    </MediaQuery>
         </div>    
