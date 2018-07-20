@@ -26,7 +26,7 @@ class WorkScott extends Component {
 			       		Hi, I'm work Scott!
 			        </div>
 			        <div className='pic'>
-						<img src="https://s3.amazonaws.com/scott-personal-website/Work scott.jpg"/>
+						<img src="https://s3.amazonaws.com/scott-personal-website/work_scott.jpg"/>
 					</div>
 					<br>
 					</br>

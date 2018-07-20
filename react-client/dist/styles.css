@@ -302,9 +302,8 @@ header {
   font-family: 'Indie Flower', cursive;
 }
 
-}
 .fp-width {
-  width: 25%;
+  width: 30%;
   display: inline-block;
 }
 
@@ -336,6 +335,16 @@ header {
 }
 
 .fun-description {
+  width: 35%;
+  display: inline-block;
+  vertical-align: middle;
+  text-align: left;
+  font-size: 1.875em;
+  color: black;
+  font-family: 'Indie Flower', cursive;
+}
+
+.fun-description-small {
   width: 80%;
   display: inline-block;
   vertical-align: middle;

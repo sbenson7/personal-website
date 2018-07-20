@@ -96,47 +96,47 @@ class FunScott extends Component {
 					</div>
 				    <br>
 					</br>
-					<div className='fp-width'>
+					<div className='fp-width-small'>
 				        <div className='pic'>
 					    	<img src="https://s3.amazonaws.com/scott-personal-website/spurs_scott.jpg"/>
 					 	</div>
 					</div>
-			        <div className='fun-description'>
+			        <div className='fun-description-small'>
 			      		I love playing and watching <b>soccer</b>. My favorite team is <b>Tottenham Hotspur</b>, a soccer team in the English Premier League.
 			        </div>
 			        <br> 
 			        </br>
-				    <div className='fp-width'>
+				    <div className='fp-width-small'>
 				    	<div className='pic'>
 					   		<img src="https://s3.amazonaws.com/scott-personal-website/britishscott.jpg"/>
 					    </div>
 					</div>
-			        <div className='fun-description'>
+			        <div className='fun-description-small'>
 			      		I’m half <b>British</b> and have <b>dual citizenship</b>! My dad’s from England, and is a huge reason for my love of soccer (football) and Tottenham Hotspur.
 			        </div>
 			        <br> 
 			        </br>
-			        <div className='fp-width'>
+			        <div className='fp-width-small'>
 				      	<div className='pic'>
 					    	<img src="https://s3.amazonaws.com/scott-personal-website/scottanimals.jpg"/>
 					    </div>
 					</div>
-			        <div className='fun-description'>
+			        <div className='fun-description-small'>
 			      		I love animals, especially <b>cats</b> and <b>dogs</b>. My family has four cats, even though I'm allergic to them and have to take a bunch of allergy medication. I also volunteer at a couple of animal shelters!
 			        </div>
 			        <br> 
 			        </br>
-			        <div className='fp-width'>
+			        <div className='fp-width-small'>
 			      		<div className='pic'>
 				   			 <img src="https://s3.amazonaws.com/scott-personal-website/scott76.jpg"/>
 				   		</div>
 				  	</div>
-			      <div className='fun-description'>
+			      <div className='fun-description-small'>
 			      	I have a love/hate relationship with the video game <b>Overwatch</b>. 
 			      </div>
 			        <br> 
 			   		</br>		        
-			        <div className='email'>
+			        <div className='email-small'>
 			        	Wanna talk? You can find me at <b>scottbenson96@gmail.com</b> OR
 			        </div>
 			        <br> 
@@ -146,7 +146,7 @@ class FunScott extends Component {
 			   	  <div className="socButton"><a href="https://www.linkedin.com/in/scott-benson1/" target="_blank"><FaLinkedIn/></a></div>
 			   	  <div className="socButton"><a href="https://github.com/sbenson7" target="_blank"><FaGithub/></a></div>
 			    </div>
-			</MediaQuery>
+			</MediaQuery>   
         </div>    
     )
   }
