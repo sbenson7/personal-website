@@ -136,7 +136,7 @@ class FunScott extends Component {
 			      </div>
 			        <br> 
 			   		</br>		        
-			        <div className='email-small'>
+			        <div className='email'>
 			        	Wanna talk? You can find me at <b>scottbenson96@gmail.com</b> OR
 			        </div>
 			        <br> 
