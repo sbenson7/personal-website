@@ -251,6 +251,17 @@ header {
   margin-top: 2em;
 }
 
+.fun-email-small {
+  display: inline-block;
+  text-align: center;
+  width: 40%;
+  font-size: 1.76em;
+  color: black;
+  font-family: 'Indie Flower', cursive;
+  margin-top: 3em;
+}
+
+
 .w-email {
   display: inline-block;
   text-align: center;
@@ -259,6 +270,16 @@ header {
   color: black;
   font-family: 'Montserrat', sans-serif;
   margin-top: 1.5em;
+}
+
+.w-email-small {
+  display: inline-block;
+  text-align: center;
+  width: 50%;
+  font-size: 1.563em;
+  color: black;
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 3em;
 }
 
 .socButton {

@@ -17,6 +17,7 @@ class WorkScott extends Component {
   	var langtonCreativeLink = <a href="http://www.langtoncreative.com" target="_blank">Langton Creative</a>
   	var ideaKraftLink = <a href="http://www.idea-kraft.com" target="_blank">Idea Kraft</a>
   	var cipherHealthLink = <a href="https://www.cipherhealth.com" target="_blank">CipherHealth</a>
+  	var resumeLink = <a href="https://s3.amazonaws.com/scott-personal-website/Scott_Benson_Resume.pdf" target="_blank">here!</a>
 
     return (
     	<div>
@@ -91,7 +92,7 @@ class WorkScott extends Component {
 						</div>
 					</div>
 				    <div className='work-description'>
-				    	Want to see a boring version of this page? Check out my <b> resume </b> here!
+				    	Want to see a boring version of this page? Check out my <b> resume </b> { resumeLink }
 				    </div>
 				    <br> 
 			   		</br>		        
@@ -177,11 +178,11 @@ class WorkScott extends Component {
 						</div>
 					</div>
 				    <div className='work-description-small'>
-				    	Want to see a boring version of this page? Check out my <b> resume </b> here!
+				    	Want to see a boring version of this page? Check out my <b> resume </b> { resumeLink }
 				    </div>
 				    <br> 
 			   		</br>		        
-			        <div className='w-email'>
+			        <div className='w-email-small'>
 			        	Want to contact me? You can find me at <b>scottbenson96@gmail.com</b> OR
 			        </div>
 			        <br> 
