@@ -82,7 +82,7 @@ class WorkScott extends Component {
 						</div>
 					</div>
 				    <div className='work-description'>
-				    	I graduated in May 2018 from <b> Binghamton University </b>, where I majored in Political Science and minored in graphic design. While I'm still interested in Political Science, my graphic design courses seem more relevant for my current career path. Here's some work I did in my classes! 
+				    	I graduated in May 2018 from <b> Binghamton University </b>, where I majored in Political Science and minored in graphic design. While I'm still interested in Political Science, my graphic design courses seem more relevant for my current career path. {<Link to="/schoolwork">Here's some work I did in my classes!</Link>}
 				    </div>
 				    <br>
 				    </br>
