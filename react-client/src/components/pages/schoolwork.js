@@ -80,7 +80,7 @@ class Schoolwork extends Component {
 					        <Modal open={this.state.open2} onClose={() => this.onCloseModal('2')} center>
 					        	<div className='center'>						            
 						           	<div className='pic'>
-										<img src="https://s3.amazonaws.com/scott-personal-website/WalkingDeadPattern.png"/>
+										<img src="https://s3.amazonaws.com/scott-personal-website/WalkingDeadPatternLarge.png"/>
 									</div>
 									<div className='school-description'>
 									    This was one of my first experiences using Adobe Illustrator. In this assignment for my <b>Introduction to Graphic Design Software class</b> we had to create a pattern based off of objects from a movie, tv show, or book. I chose the <b>Walking Dead</b> (though I don't watch the show any more).
@@ -119,7 +119,7 @@ class Schoolwork extends Component {
 					        <Modal open={this.state.open5} onClose={() => this.onCloseModal('5')} center>
 					        	<div className='center'>
 						           	<div className='pic'>
-										<ReactPlayer url='https://s3.amazonaws.com/scott-personal-website/ScottBenson_T3.mp4' playing loop />
+										<ReactPlayer url='https://s3.amazonaws.com/scott-personal-website/Tutorial3.mp4' playing loop />
 									</div>
 									<div className='school-description'>
 									    This was one of my first experiences using Adobe After Effects for my <b>Graphic Design Software II</b> class.
@@ -219,7 +219,7 @@ class Schoolwork extends Component {
 					        <Modal open={this.state.open2} onClose={() => this.onCloseModal('2')} center>
 					        	<div className='center'>						            
 						           	<div className='pic'>
-										<img src="https://s3.amazonaws.com/scott-personal-website/WalkingDeadPattern.png"/>
+										<img src="https://s3.amazonaws.com/scott-personal-website/WalkingDeadPatternLarge.png"/>
 									</div>
 									<div className='school-description'>
 									    This was one of my first experiences using Adobe Illustrator. In this assignment for my <b>Introduction to Graphic Design Software class</b> we had to create a pattern based off of objects from a movie, tv show, or book. I chose the <b>Walking Dead</b> (though I don't watch the show any more).
@@ -258,7 +258,7 @@ class Schoolwork extends Component {
 					        <Modal open={this.state.open5} onClose={() => this.onCloseModal('5')} center>
 					        	<div className='center'>
 						           	<div className='pic'>
-										<ReactPlayer url='https://s3.amazonaws.com/scott-personal-website/ScottBenson_T3.mp4' playing loop />
+										<ReactPlayer url='https://s3.amazonaws.com/scott-personal-website/Tutorial3.mp4' playing loop />
 									</div>
 									<div className='school-description'>
 									    This was one of my first experiences using Adobe After Effects for my <b>Graphic Design Software II</b> class.
