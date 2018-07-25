@@ -44,8 +44,11 @@ class Schoolwork extends Component {
     		<MediaQuery minDeviceWidth={900}>
 		        <div className='work-welcome'>
 		        	Schoolwork
-		        </div>
+		        </div>	
 		        <div className='center'>
+		         	<div className='work-intro'>
+						Click on a square to view the assignment! 
+					</div>
 		        	<div className='schoolwork-box'>
 				    	<div className='s-pic'>
 				    	<button className="sbttn" onClick={() => this.onOpenModal('0')}><img src="https://s3.amazonaws.com/scott-personal-website/Canvas.png"/></button>
@@ -185,6 +188,9 @@ class Schoolwork extends Component {
 		        	Schoolwork
 		        </div>
 		        <div className='center'>
+		        	<div className='work-intro-small'>
+						Tap on a square to view the assignment! 
+					</div>
 		        	<div className='schoolwork-box-small'>
 				    	<div className='s-pic'>
 				    	<button className="sbttn" onClick={() => this.onOpenModal('0')}><img src="https://s3.amazonaws.com/scott-personal-website/Canvas.png"/></button>
