@@ -446,6 +446,13 @@ header {
   margin-top: 4em;
 }
 
+.schoolwork-box-small {
+  width: 90%;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 4em;
+}
+
 .s-pic {
 display: inline-block;
 }

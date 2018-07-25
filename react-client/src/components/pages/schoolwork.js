@@ -185,23 +185,129 @@ class Schoolwork extends Component {
 		        	Schoolwork
 		        </div>
 		        <div className='center'>
-			    	<div className='hpic'>
-			      		<img src="https://s3.amazonaws.com/scott-personal-website/fun_and_work_scott.jpg"/>
-			        </div>
-			    	<br> 
-			   		</br>
-			        <div className='funscott-small'>
-			        	<button className="fbttn-small" onClick={() => this.nextPath('/funscott')}>
-			            	Meet Fun Scott!
-			        	</button>
-			        </div>   
-			        <div className='workscott-small'>
-			        	<button className="wbttn-small" onClick={() => this.nextPath('/workscott')}>
-			           		Meet Work Scott!
-			        	</button> 
-			        </div>
-			    	<br> 
-			   		</br>		        
+		        	<div className='schoolwork-box-small'>
+				    	<div className='s-pic'>
+				    	<button className="sbttn" onClick={() => this.onOpenModal('0')}><img src="https://s3.amazonaws.com/scott-personal-website/Canvas.png"/></button>
+					        <Modal open={this.state.open0} onClose={() => this.onCloseModal('0')} center>
+					        <div className='school-modal'>
+					        	<div className='center'>						            
+						    		<div className='pic'>
+										<ReactPlayer url='https://s3.amazonaws.com/scott-personal-website/CanvasLogo.mp4' playing loop />
+									</div>
+								    <div className='school-description'>
+								    	This an animation of the logo for <b>Canvas</b>, a project for my <b>Graphic Design Software II</b> class. 
+								    </div>
+								</div>
+					        </div>
+					        </Modal>				        
+				        </div>
+				        <div className='s-pic'>
+				      		<button className="sbttn" onClick={() => this.onOpenModal('1')}><img src="https://s3.amazonaws.com/scott-personal-website/BensonWinTheDaySmall.jpg"/></button>
+					        <Modal open={this.state.open1} onClose={() => this.onCloseModal('1')} center>
+					        	<div className='center'>					           
+						           	<div className='pic'>
+										<img src="https://s3.amazonaws.com/scott-personal-website/BensonWinTheDay.jpg"/>
+									</div>
+									<div className='school-description'>
+									    This was one of my first experiences using Adobe Photoshop for my <b>Introduction to Graphic Design Software class</b>.
+									</div>
+								</div>
+					        </Modal>				        
+				        </div>
+				        <div className='s-pic'>
+				      		<button className="sbttn" onClick={() => this.onOpenModal('2')}><img src="https://s3.amazonaws.com/scott-personal-website/WalkingDeadPattern.png"/></button>
+					        <Modal open={this.state.open2} onClose={() => this.onCloseModal('2')} center>
+					        	<div className='center'>						            
+						           	<div className='pic'>
+										<img src="https://s3.amazonaws.com/scott-personal-website/WalkingDeadPattern.png"/>
+									</div>
+									<div className='school-description'>
+									    This was one of my first experiences using Adobe Illustrator. In this assignment for my <b>Introduction to Graphic Design Software class</b> we had to create a pattern based off of objects from a movie, tv show, or book. I chose the <b>Walking Dead</b> (though I don't watch the show any more).
+									</div>
+								</div>
+					        </Modal>				        
+				        </div>
+				   		<div className='s-pic'>
+				      		<button className="sbttn" onClick={() => this.onOpenModal('3')}><img src="https://s3.amazonaws.com/scott-personal-website/Tutorial1.png"/></button>
+					        <Modal open={this.state.open3} onClose={() => this.onCloseModal('3')} center>
+					        	<div className='center'>
+						           	<div className='pic'>
+										<ReactPlayer url='https://s3.amazonaws.com/scott-personal-website/ScottBenson_T1_1.mp4' playing loop />
+									</div>
+									<div className='school-description'>
+									    This was one of my first experiences using Adobe After Effects for my <b>Graphic Design Software II</b> class.
+									</div>
+								</div>
+					        </Modal>				        
+				        </div>
+				        <div className='s-pic'>
+				      		<button className="sbttn" onClick={() => this.onOpenModal('4')}><img src="https://s3.amazonaws.com/scott-personal-website/Tutorial2.png"/></button>
+					        <Modal open={this.state.open4} onClose={() => this.onCloseModal('4')} center>
+					        	<div className='center'>
+						           	<div className='pic'>
+										<ReactPlayer url='https://s3.amazonaws.com/scott-personal-website/ScottBenson_T1_2.mp4' playing loop />
+									</div>
+									<div className='school-description'>
+									    This was one of my first experiences using Adobe After Effects for my <b>Graphic Design Software II</b> class.
+									</div>
+								</div>
+					        </Modal>
+				        </div>
+				        <div className='s-pic'>
+				      		<button className="sbttn" onClick={() => this.onOpenModal('5')}><img src="https://s3.amazonaws.com/scott-personal-website/Tutorial3.png"/></button>
+					        <Modal open={this.state.open5} onClose={() => this.onCloseModal('5')} center>
+					        	<div className='center'>
+						           	<div className='pic'>
+										<ReactPlayer url='https://s3.amazonaws.com/scott-personal-website/ScottBenson_T3.mp4' playing loop />
+									</div>
+									<div className='school-description'>
+									    This was one of my first experiences using Adobe After Effects for my <b>Graphic Design Software II</b> class.
+									</div>
+								</div>
+					        </Modal>
+				      	</div>
+				      	<div className='s-pic'>
+				      		<button className="sbttn" onClick={() => this.onOpenModal('6')}><img src="https://s3.amazonaws.com/scott-personal-website/Tutorial4.png"/></button>
+					        <Modal open={this.state.open6} onClose={() => this.onCloseModal('6')} center>
+					        	<div className='center'>
+						           	<div className='pic'>
+										<ReactPlayer url='https://s3.amazonaws.com/scott-personal-website/ScottBenson_T2.mp4' playing loop />
+									</div>
+									<div className='school-description'>
+									    This was one of my first experiences using Adobe After Effects for my <b>Graphic Design Software II</b> class.
+									</div>
+								</div>
+					        </Modal>
+				      	</div>
+				      	<div className='s-pic'>
+				      		<button className="sbttn" onClick={() => this.onOpenModal('7')}><img src="https://s3.amazonaws.com/scott-personal-website/Dog.png"/></button>
+					        <Modal open={this.state.open7} onClose={() => this.onCloseModal('7')} center>
+					        	<div className='center'>
+						           	<div className='pic'>
+										<img src="https://s3.amazonaws.com/scott-personal-website/Dog.png"/>
+									</div>
+									<div className='school-description'>
+									    This was one of my first experiences using Adobe Illustrator for my <b>Introduction to Graphic Design Software class</b>. 
+									</div>
+								</div>
+					        </Modal>
+				      	</div>
+				      	<div className='s-pic'>
+				      		<button className="sbttn" onClick={() => this.onOpenModal('8')}><img src="https://s3.amazonaws.com/scott-personal-website/Soccersmall.jpg"/></button>
+					        <Modal open={this.state.open8} onClose={() => this.onCloseModal('8')} center>
+					        	<div className='center'>
+						           	<div className='pic'>
+										<img src="https://s3.amazonaws.com/scott-personal-website/Soccersmall.jpg"/>
+									</div>
+									<div className='school-description'>
+									    In this assingment for my <b>Introduction to Graphic Design Software class</b> we had to using Adobe Illustrator to create symbols representing a hobby of ours.
+									</div>
+								</div>
+					        </Modal>
+				      	</div>
+				    </div>
+			      	<br> 
+			   		</br>	
 				    <div className='w-email-small'>
 			        	Want to contact me? You can find me at <b>scottbenson96@gmail.com</b> OR
 			        </div>
