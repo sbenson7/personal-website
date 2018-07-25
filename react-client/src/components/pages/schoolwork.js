@@ -55,7 +55,7 @@ class Schoolwork extends Component {
 						    		<div className='pic'>
 										<ReactPlayer url='https://s3.amazonaws.com/scott-personal-website/CanvasLogo.mp4' playing loop />
 									</div>
-								    <div className='work-description-small'>
+								    <div className='school-description'>
 								    	This an animation of the logo for <b>Canvas</b>, a project for my <b>Graphic Design Software II</b> class. 
 								    </div>
 								</div>
@@ -69,7 +69,7 @@ class Schoolwork extends Component {
 						           	<div className='pic'>
 										<img src="https://s3.amazonaws.com/scott-personal-website/BensonWinTheDay.jpg"/>
 									</div>
-									<div className='work-description-small'>
+									<div className='school-description'>
 									    This was one of my first experiences using Adobe Photoshop for my <b>Introduction to Graphic Design Software class</b>.
 									</div>
 								</div>
@@ -82,8 +82,8 @@ class Schoolwork extends Component {
 						           	<div className='pic'>
 										<img src="https://s3.amazonaws.com/scott-personal-website/WalkingDeadPattern.png"/>
 									</div>
-									<div className='work-description-small'>
-									    	This was one of my first experiences using Adobe Illustrator. In this assignment for my <b>Introduction to Graphic Design Software class</b> we had to create a pattern based off of objects from a movie, tv show, or book. I chose the <b>Walking Dead</b> (though I don't watch the show any more).
+									<div className='school-description'>
+									    This was one of my first experiences using Adobe Illustrator. In this assignment for my <b>Introduction to Graphic Design Software class</b> we had to create a pattern based off of objects from a movie, tv show, or book. I chose the <b>Walking Dead</b> (though I don't watch the show any more).
 									</div>
 								</div>
 					        </Modal>				        
@@ -95,8 +95,8 @@ class Schoolwork extends Component {
 						           	<div className='pic'>
 										<ReactPlayer url='https://s3.amazonaws.com/scott-personal-website/ScottBenson_T1_1.mp4' playing loop />
 									</div>
-									<div className='work-description-small'>
-									    	This was one of my first experiences using Adobe After Effects for my <b>Graphic Design Software II</b> class.
+									<div className='school-description'>
+									    This was one of my first experiences using Adobe After Effects for my <b>Graphic Design Software II</b> class.
 									</div>
 								</div>
 					        </Modal>				        
@@ -108,8 +108,8 @@ class Schoolwork extends Component {
 						           	<div className='pic'>
 										<ReactPlayer url='https://s3.amazonaws.com/scott-personal-website/ScottBenson_T1_2.mp4' playing loop />
 									</div>
-									<div className='work-description-small'>
-									    	This was one of my first experiences using Adobe After Effects for my <b>Graphic Design Software II</b> class.
+									<div className='school-description'>
+									    This was one of my first experiences using Adobe After Effects for my <b>Graphic Design Software II</b> class.
 									</div>
 								</div>
 					        </Modal>
@@ -121,8 +121,8 @@ class Schoolwork extends Component {
 						           	<div className='pic'>
 										<ReactPlayer url='https://s3.amazonaws.com/scott-personal-website/ScottBenson_T3.mp4' playing loop />
 									</div>
-									<div className='work-description-small'>
-									    	This was one of my first experiences using Adobe After Effects for my <b>Graphic Design Software II</b> class.
+									<div className='school-description'>
+									    This was one of my first experiences using Adobe After Effects for my <b>Graphic Design Software II</b> class.
 									</div>
 								</div>
 					        </Modal>
@@ -134,8 +134,8 @@ class Schoolwork extends Component {
 						           	<div className='pic'>
 										<ReactPlayer url='https://s3.amazonaws.com/scott-personal-website/ScottBenson_T2.mp4' playing loop />
 									</div>
-									<div className='work-description-small'>
-									    	This was one of my first experiences using Adobe After Effects for my <b>Graphic Design Software II</b> class.
+									<div className='school-description'>
+									    This was one of my first experiences using Adobe After Effects for my <b>Graphic Design Software II</b> class.
 									</div>
 								</div>
 					        </Modal>
@@ -147,7 +147,7 @@ class Schoolwork extends Component {
 						           	<div className='pic'>
 										<img src="https://s3.amazonaws.com/scott-personal-website/Dog.png"/>
 									</div>
-									<div className='work-description-small'>
+									<div className='school-description'>
 									    This was one of my first experiences using Adobe Illustrator for my <b>Introduction to Graphic Design Software class</b>. 
 									</div>
 								</div>
@@ -160,7 +160,7 @@ class Schoolwork extends Component {
 						           	<div className='pic'>
 										<img src="https://s3.amazonaws.com/scott-personal-website/Soccersmall.jpg"/>
 									</div>
-									<div className='work-description-small'>
+									<div className='school-description'>
 									    In this assingment for my <b>Introduction to Graphic Design Software class</b> we had to using Adobe Illustrator to create symbols representing a hobby of ours.
 									</div>
 								</div>

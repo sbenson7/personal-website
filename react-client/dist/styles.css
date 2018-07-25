@@ -456,8 +456,17 @@ display: inline-block;
   outline: none;
 }
 
-.school-modal {
+.school-description {
+  width: 80%;
+  display: inline-block;
+  vertical-align: middle;
+  text-align: center;
+  font-size: 1.2em;
+  color: black;
+  font-family: 'Montserrat', sans-serif;
+  margin-bottom: 1em;
 }
+
 
 
 
