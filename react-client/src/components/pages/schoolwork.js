@@ -59,7 +59,7 @@ class Schoolwork extends Component {
 										<ReactPlayer url='https://s3.amazonaws.com/scott-personal-website/CanvasLogo.mp4' playing loop />
 									</div>
 								    <div className='school-description'>
-								    	This an animation of the logo for <b>Canvas</b>, a project for my <b>Graphic Design Software II</b> class. 
+								    	This an animation of a logo for my <b>Graphic Design Software II</b> class. It was for the hypothetical app <b>Canvas</b>, which makes art come alive with AR.
 								    </div>
 								</div>
 					        </div>
@@ -73,7 +73,7 @@ class Schoolwork extends Component {
 										<img src="https://s3.amazonaws.com/scott-personal-website/BensonWinTheDay.jpg"/>
 									</div>
 									<div className='school-description'>
-									    This was one of my first experiences using Adobe Photoshop for my <b>Introduction to Graphic Design Software class</b>.
+									    This was one of my first experiences using Adobe Photoshop for my <b>Introduction to Graphic Design Software class</b>. We were instructed to put a quote into a photo we had taken.
 									</div>
 								</div>
 					        </Modal>				        
@@ -86,7 +86,7 @@ class Schoolwork extends Component {
 										<img src="https://s3.amazonaws.com/scott-personal-website/WalkingDeadPatternLarge.png"/>
 									</div>
 									<div className='school-description'>
-									    This was one of my first experiences using Adobe Illustrator. In this assignment for my <b>Introduction to Graphic Design Software class</b> we had to create a pattern based off of objects from a movie, tv show, or book. I chose the <b>Walking Dead</b> (though I don't watch the show any more).
+									    For this assignment for my <b>Introduction to Graphic Design Software class</b>, we had to create a pattern based off of objects from a movie, tv show, or book, using Adobe Illustrator. I chose the <b>Walking Dead</b> (though I don't watch the show any more).
 									</div>
 								</div>
 					        </Modal>				        
@@ -164,7 +164,7 @@ class Schoolwork extends Component {
 										<img src="https://s3.amazonaws.com/scott-personal-website/Soccersmall.jpg"/>
 									</div>
 									<div className='school-description'>
-									    In this assingment for my <b>Introduction to Graphic Design Software class</b> we had to using Adobe Illustrator to create symbols representing a hobby of ours.
+									    In this assignment for my <b>Introduction to Graphic Design Software class</b> we had to use Adobe Illustrator to create symbols representing a hobby of ours.
 									</div>
 								</div>
 					        </Modal>
@@ -201,7 +201,7 @@ class Schoolwork extends Component {
 										<ReactPlayer url='https://s3.amazonaws.com/scott-personal-website/CanvasLogo.mp4' playing loop />
 									</div>
 								    <div className='school-description'>
-								    	This an animation of the logo for <b>Canvas</b>, a project for my <b>Graphic Design Software II</b> class. 
+								    	This an animation of a logo for my <b>Graphic Design Software II</b> class. It was for the hypothetical app <b>Canvas</b>, which makes art come alive with AR.
 								    </div>
 								</div>
 					        </div>
@@ -215,7 +215,7 @@ class Schoolwork extends Component {
 										<img src="https://s3.amazonaws.com/scott-personal-website/BensonWinTheDay.jpg"/>
 									</div>
 									<div className='school-description'>
-									    This was one of my first experiences using Adobe Photoshop for my <b>Introduction to Graphic Design Software class</b>.
+									    This was one of my first experiences using Adobe Photoshop for my <b>Introduction to Graphic Design Software class</b>. We were instructed to put a quote into a photo we had taken.
 									</div>
 								</div>
 					        </Modal>				        
@@ -228,7 +228,7 @@ class Schoolwork extends Component {
 										<img src="https://s3.amazonaws.com/scott-personal-website/WalkingDeadPatternLarge.png"/>
 									</div>
 									<div className='school-description'>
-									    This was one of my first experiences using Adobe Illustrator. In this assignment for my <b>Introduction to Graphic Design Software class</b> we had to create a pattern based off of objects from a movie, tv show, or book. I chose the <b>Walking Dead</b> (though I don't watch the show any more).
+									    For this assignment for my <b>Introduction to Graphic Design Software class</b>, we had to create a pattern based off of objects from a movie, tv show, or book, using Adobe Illustrator. I chose the <b>Walking Dead</b> (though I don't watch the show any more).
 									</div>
 								</div>
 					        </Modal>				        
@@ -306,7 +306,7 @@ class Schoolwork extends Component {
 										<img src="https://s3.amazonaws.com/scott-personal-website/Soccersmall.jpg"/>
 									</div>
 									<div className='school-description'>
-									    In this assingment for my <b>Introduction to Graphic Design Software class</b> we had to using Adobe Illustrator to create symbols representing a hobby of ours.
+									    In this assignment for my <b>Introduction to Graphic Design Software class</b> we had to use Adobe Illustrator to create symbols representing a hobby of ours.
 									</div>
 								</div>
 					        </Modal>
