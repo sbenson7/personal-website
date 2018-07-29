@@ -52,7 +52,7 @@ class WorkScott extends Component {
 						</div>
 					</div>
 				    <div className='work-description'>
-				    	I worked at { langtonCreativeLink }, an award-winning design firm, as a <b> Design/Web Developer Intern </b> from June to August 2017. I helped design and create branding, packaging, and websites for clients. Among my projects was contributing to the MirrorLite website, which went on to win the 2018 American Web Design Award and 2018 Communicator Award.
+				    	I worked at { langtonCreativeLink }, an award-winning design firm, as a <b>Design/Web Developer Intern</b> from June to August 2017. I helped design and create branding, packaging, and websites for clients. Among my projects was contributing to the MirrorLite website, which went on to win the 2018 American Web Design Award and 2018 Communicator Award.
 				    </div>
 				    <br>
 				    </br>
@@ -62,7 +62,7 @@ class WorkScott extends Component {
 						</div>
 					</div>
 				    <div className='work-description'>
-				    	I worked at { ideaKraftLink }, a website development, packaging design, and digital marketing agency, as a <b> Front-End Developer Intern </b> from January 2017 to May 2017. I worked on web pages, landing pages and email templates for clients, using my skills in WordPress, Adobe Creative Suite and graphic design.
+				    	I worked at { ideaKraftLink }, a website development, packaging design, and digital marketing agency, as a <b>Front-End Developer Intern</b> from January 2017 to May 2017. I worked on web pages, landing pages and email templates for clients, using my skills in WordPress, Adobe Creative Suite and graphic design.
 				    </div>
 				     <br>
 				    </br>
@@ -72,7 +72,7 @@ class WorkScott extends Component {
 						</div>
 					</div>
 				    <div className='work-description'>
-				    	I worked at { cipherHealthLink }, a health tech startup, as a <b> Software Development Intern </b> from June to August 2015. I worked with applications in Ruby on Rails and tested with RSpec and Cucumber. I wrote in Ruby, HAML, CSS, and SASS; used MongoDB for the database; and  cleaned up code with Rubocop.
+				    	I worked at { cipherHealthLink }, a health tech startup, as a <b>Software Development Intern</b> from June to August 2015. I worked with applications in Ruby on Rails and tested with RSpec and Cucumber. I wrote in Ruby, HAML, CSS, and SASS; used MongoDB for the database; and  cleaned up code with Rubocop.
 				    </div>
 				    <br>
 				    </br>
@@ -82,7 +82,7 @@ class WorkScott extends Component {
 						</div>
 					</div>
 				    <div className='work-description'>
-				    	I graduated in May 2018 from <b> Binghamton University </b>, where I majored in Political Science and minored in graphic design. While I'm still interested in Political Science, my graphic design courses seem more relevant for my current career path. {<Link to="/schoolwork">Here's some work I did in my classes!</Link>}
+				    	I graduated in May 2018 from <b>Binghamton University</b>, where I majored in Political Science and minored in graphic design. While I'm still interested in Political Science, my graphic design courses seem more relevant for my current career path. {<Link to="/schoolwork">Here's some work I did in my classes!</Link>}
 				    </div>
 				    <br>
 				    </br>
@@ -138,7 +138,7 @@ class WorkScott extends Component {
 						</div>
 					</div>
 				    <div className='work-description-small'>
-				    	I worked at { langtonCreativeLink }, an award-winning design firm, as a <b> Design/Web Developer Intern </b> from June to August 2017. I helped design and create branding, packaging, and websites for clients. Among my projects was contributing to the MirrorLite website, which went on to win the 2018 American Web Design Award and 2018 Communicator Award.
+				    	I worked at { langtonCreativeLink }, an award-winning design firm, as a <b>Design/Web Developer Intern</b> from June to August 2017. I helped design and create branding, packaging, and websites for clients. Among my projects was contributing to the MirrorLite website, which went on to win the 2018 American Web Design Award and 2018 Communicator Award.
 				    </div>
 				    <br>
 				    </br>
@@ -148,7 +148,7 @@ class WorkScott extends Component {
 						</div>
 					</div>
 				    <div className='work-description-small'>
-				    	I worked at { ideaKraftLink }, a website development, packaging design, and digital marketing agency, as a <b> Front-End Developer Intern </b> from January 2017 to May 2017. I worked on web pages, landing pages and email templates for clients, using my skills in WordPress, Adobe Creative Suite and graphic design.
+				    	I worked at { ideaKraftLink }, a website development, packaging design, and digital marketing agency, as a <b>Front-End Developer Intern</b> from January 2017 to May 2017. I worked on web pages, landing pages and email templates for clients, using my skills in WordPress, Adobe Creative Suite and graphic design.
 				    </div>
 				     <br>
 				    </br>
@@ -158,7 +158,7 @@ class WorkScott extends Component {
 						</div>
 					</div>
 				    <div className='work-description-small'>
-				    	I worked at { cipherHealthLink }, a health tech startup, as a <b> Software Development Intern </b> from June to August 2015. I worked with applications in Ruby on Rails and tested with RSpec and Cucumber. I wrote in Ruby, HAML, CSS, and SASS; used MongoDB for the database; and  cleaned up code with Rubocop.
+				    	I worked at { cipherHealthLink }, a health tech startup, as a <b>Software Development Intern</b> from June to August 2015. I worked with applications in Ruby on Rails and tested with RSpec and Cucumber. I wrote in Ruby, HAML, CSS, and SASS; used MongoDB for the database; and  cleaned up code with Rubocop.
 				    </div>
 				    <br>
 				    </br>
@@ -168,7 +168,7 @@ class WorkScott extends Component {
 						</div>
 					</div>
 				    <div className='work-description-small'>
-				    	I graduated in May 2018 from <b> Binghamton University </b>, where I majored in Political Science and minored in graphic design. While I'm still interested in Political Science, my graphic design courses seem more relevant for my current career path. {<Link to="/schoolwork">Here's some work I did in my classes!</Link>}
+				    	I graduated in May 2018 from <b>Binghamton University</b>, where I majored in Political Science and minored in graphic design. While I'm still interested in Political Science, my graphic design courses seem more relevant for my current career path. {<Link to="/schoolwork">Here's some work I did in my classes!</Link>}
 				    </div>
 				    <br>
 				    </br>
