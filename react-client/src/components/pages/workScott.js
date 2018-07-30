@@ -72,7 +72,7 @@ class WorkScott extends Component {
 						</div>
 					</div>
 				    <div className='work-description'>
-				    	I worked at { cipherHealthLink }, a health tech startup, as a <b>Software Development Intern</b> from June to August 2015. I worked with applications in Ruby on Rails and tested with RSpec and Cucumber. I wrote in Ruby, HAML, CSS, and SASS; used MongoDB for the database; and  cleaned up code with Rubocop.
+				    	I worked at { cipherHealthLink }, a health tech startup, as a <b>Software Development Intern</b> from June to August 2015. I worked with applications in Ruby on Rails and tested with RSpec and Cucumber. I wrote in Ruby, HAML, CSS, and SASS; used MongoDB for the database; and cleaned up code with Rubocop.
 				    </div>
 				    <br>
 				    </br>
@@ -158,7 +158,7 @@ class WorkScott extends Component {
 						</div>
 					</div>
 				    <div className='work-description-small'>
-				    	I worked at { cipherHealthLink }, a health tech startup, as a <b>Software Development Intern</b> from June to August 2015. I worked with applications in Ruby on Rails and tested with RSpec and Cucumber. I wrote in Ruby, HAML, CSS, and SASS; used MongoDB for the database; and  cleaned up code with Rubocop.
+				    	I worked at { cipherHealthLink }, a health tech startup, as a <b>Software Development Intern</b> from June to August 2015. I worked with applications in Ruby on Rails and tested with RSpec and Cucumber. I wrote in Ruby, HAML, CSS, and SASS; used MongoDB for the database; and cleaned up code with Rubocop.
 				    </div>
 				    <br>
 				    </br>

@@ -86,7 +86,7 @@ class Schoolwork extends Component {
 										<img src="https://s3.amazonaws.com/scott-personal-website/WalkingDeadPatternLarge.png"/>
 									</div>
 									<div className='school-description'>
-									    For this assignment for my <b>Introduction to Graphic Design Software class</b>, we had to create a pattern based off of objects from a movie, tv show, or book, using Adobe Illustrator. I chose the <b>Walking Dead</b> (though I don't watch the show any more).
+									    For this assignment for my <b>Introduction to Graphic Design Software class</b>, we had to create a pattern based off of objects from a movie, tv show, or book, using Adobe Illustrator. I chose the <b>Walking Dead</b> (though I don't watch the show anymore).
 									</div>
 								</div>
 					        </Modal>				        
@@ -228,7 +228,7 @@ class Schoolwork extends Component {
 										<img src="https://s3.amazonaws.com/scott-personal-website/WalkingDeadPatternLarge.png"/>
 									</div>
 									<div className='school-description'>
-									    For this assignment for my <b>Introduction to Graphic Design Software class</b>, we had to create a pattern based off of objects from a movie, tv show, or book, using Adobe Illustrator. I chose the <b>Walking Dead</b> (though I don't watch the show any more).
+									    For this assignment for my <b>Introduction to Graphic Design Software class</b>, we had to create a pattern based off of objects from a movie, tv show, or book, using Adobe Illustrator. I chose the <b>Walking Dead</b> (though I don't watch the show anymore).
 									</div>
 								</div>
 					        </Modal>				        
