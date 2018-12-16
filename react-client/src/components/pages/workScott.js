@@ -14,6 +14,7 @@ class WorkScott extends Component {
 
   render() {
   	var moonliteCreativeLink = <a href="https://www.moonlitecreative.com" target="_blank">Moonlite Creative</a>
+  	var genVoteLink = <a href="https://www.genvote.org" target="_blank">Generation Vote</a>
   	var studyClashLink = <a href="https://www.studyclash.com" target="_blank">Study Clash</a>
   	var langtonCreativeLink = <a href="http://www.langtoncreative.com" target="_blank">Langton Creative</a>
   	var ideaKraftLink = <a href="http://www.idea-kraft.com" target="_blank">Idea Kraft</a>
@@ -44,6 +45,16 @@ class WorkScott extends Component {
 					</div>
 				    <div className='work-description'>
 				    	I do freelance web design as { moonliteCreativeLink }. Moonlite Creative is a digital agency that specializes in design, development, hosting and more. I create custom web pages, graphics and photos, and perform SEO and maintenance for client websites. Want a super cool new website? Let me know!
+				    </div>
+				    <br>
+				    </br>
+				    <div className='wp-width'>
+			       		<div className='pic'>
+							<img src="https://s3.amazonaws.com/scott-personal-website/ScottGenVote.png"/>
+						</div>
+					</div>
+				    <div className='work-description'>
+				    	I also am the CTO of { genVoteLink }, which empowers youth to be agents of change in local electoral politics. As CTO, I am responsible for the nonprofit’s overall technological vision, as well as overseeing it's messaging, brand development, and communications strategy. I also manage and maintain our website and social media accounts.
 				    </div>
 				    <br>
 				    </br>
@@ -133,6 +144,26 @@ class WorkScott extends Component {
 				    </div>
 				    <br>
 					</br>
+					<div className='wp-width'>
+			       		<div className='pic'>
+							<img src="https://s3.amazonaws.com/scott-personal-website/Moonlite_Creative_Scott.png"/>
+						</div>
+					</div>
+				    <div className='work-description'>
+				    	I do freelance web design as { moonliteCreativeLink }. Moonlite Creative is a digital agency that specializes in design, development, hosting and more. I create custom web pages, graphics and photos, and perform SEO and maintenance for client websites. Want a super cool new website? Let me know!
+				    </div>
+				    <br>
+				    </br>
+				    <div className='wp-width'>
+			       		<div className='pic'>
+							<img src="https://s3.amazonaws.com/scott-personal-website/ScottGenVote.png"/>
+						</div>
+					</div>
+				    <div className='work-description'>
+				    	I also am the CTO of { genVoteLink }, which empowers youth to be agents of change in local electoral politics. As CTO, I am responsible for the nonprofit’s overall technological vision, as well as overseeing it's messaging, brand development, and communications strategy. I also manage and maintain our website and social media accounts.
+				    </div>
+				    <br>
+				    </br>
 					<div className='wp-width-small'>
 			       		<div className='pic'>
 							<img src="https://s3.amazonaws.com/scott-personal-website/studyclashscott.jpg"/>
