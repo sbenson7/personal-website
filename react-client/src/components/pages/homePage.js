@@ -21,11 +21,11 @@ class HomePage extends Component {
     	<div>
     		<MediaQuery minDeviceWidth={900}>
 		        <div className='welcome'>
-		        	Hi, I'm Scott!
+		        	Hi, I'm Mr. Scott!
 		        </div>
 		        <div className='center'>
 			    	<div className='hpic'>
-			      		<img src="https://s3.amazonaws.com/scott-personal-website/fun_and_work_scott.jpg"/>
+			      		<img src="https://s3.amazonaws.com/scott-personal-website/fun_and_work_scott.png"/>
 			        </div>
 			    	<br> 
 			   		</br>
@@ -58,7 +58,7 @@ class HomePage extends Component {
 		        </div>
 		        <div className='center'>
 			    	<div className='hpic'>
-			      		<img src="https://s3.amazonaws.com/scott-personal-website/fun_and_work_scott.jpg"/>
+			      		<img src="https://s3.amazonaws.com/scott-personal-website/fun_and_work_scott.png"/>
 			        </div>
 			    	<br> 
 			   		</br>
