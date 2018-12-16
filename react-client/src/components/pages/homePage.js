@@ -21,7 +21,7 @@ class HomePage extends Component {
     	<div>
     		<MediaQuery minDeviceWidth={900}>
 		        <div className='welcome'>
-		        	Hi, I'm Mr. Scott!
+		        	Hi, I'm Scott!
 		        </div>
 		        <div className='center'>
 			    	<div className='hpic'>
