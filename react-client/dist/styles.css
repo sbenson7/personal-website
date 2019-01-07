@@ -144,6 +144,8 @@ header {
   text-align: center;
   color: black;
   font-family: 'Indie Flower', cursive;
+  -webkit-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
 }
 
 .welcome-small {
