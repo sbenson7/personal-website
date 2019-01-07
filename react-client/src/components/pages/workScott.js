@@ -29,7 +29,7 @@ class WorkScott extends Component {
 			       		Hi, I'm work Scott!
 			        </div>
 			        <div className='pic'>
-						<img src="https://s3.amazonaws.com/scott-personal-website/work_scott.jpg"/>
+						<img src="https://s3.amazonaws.com/scott-personal-website/Work_scott.png"/>
 					</div>
 					<br>
 					</br>
@@ -135,7 +135,7 @@ class WorkScott extends Component {
 			       		Hi, I'm work Scott!
 			        </div>
 			        <div className='pic'>
-						<img src="https://s3.amazonaws.com/scott-personal-website/work_scott.jpg"/>
+						<img src="https://s3.amazonaws.com/scott-personal-website/Work_scott.png"/>
 					</div>
 					<br>
 					</br>

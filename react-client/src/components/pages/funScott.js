@@ -21,7 +21,7 @@ class FunScott extends Component {
 			        	Hi, I'm fun Scott!
 			        </div>
 			        <div className='pic'>
-						<img src="https://s3.amazonaws.com/scott-personal-website/fun_scott.jpg"/>
+						<img src="https://s3.amazonaws.com/scott-personal-website/FunScott.png"/>
 					</div>
 					<br>
 					</br>
@@ -87,7 +87,7 @@ class FunScott extends Component {
 			        	Hi, I'm fun Scott!
 			        </div>
 			        <div className='pic'>
-						<img src="https://s3.amazonaws.com/scott-personal-website/fun_scott.jpg"/>
+						<img src="https://s3.amazonaws.com/scott-personal-website/FunScott.png"/>
 					</div>
 					<br>
 					</br>
