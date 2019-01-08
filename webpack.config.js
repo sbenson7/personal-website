@@ -44,5 +44,9 @@ module.exports = {
     new webpack.DefinePlugin({
       'process.env.NODE_ENV': JSON.stringify('production')
     })
+    new CopyWebpackPlugin([
+      // relative path is from src
+      { from: './favicon.ico' }, // <- your path to favicon
+    ])
   ]
 };
