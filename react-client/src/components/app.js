@@ -7,12 +7,11 @@ import WorkScott from './pages/workScott.js';
 import Schoolwork from './pages/schoolwork.js';
 import NavBar from './headerComponent/navBar.js';
 import Footer from './footerComponent/footer.js';
-import Favicon from 'react-favicon';
+
 
 class App extends Component {
   render() {
     return (
-      <Favicon url="https://s3.amazonaws.com/scott-personal-website/favicon.ico" />
       <Router>
         <div>
           <NavBar />
