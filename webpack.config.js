@@ -2,6 +2,7 @@ const path = require('path');
 const SRC_DIR = path.join(__dirname, '/react-client/src');
 const DIST_DIR = path.join(__dirname, '/react-client/dist');
 const webpack = require('webpack');
+const CopyWebpackPlugin = require('copy-webpack-plugin')
 
 module.exports = {
   entry: `${SRC_DIR}/index.js`,
